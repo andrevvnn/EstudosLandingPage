@@ -86,3 +86,29 @@ a, i{
     bottom: 25px;
 
 }
+
+/* Gallery */
+
+#img-2 {
+    background-image: url('https://images.unsplash.com/photo-1540678931042-41a977082abf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80');
+    height: 200px;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-bottom: 10px;
+}
+
+#gallery-container h1 {
+    text-align: center;   
+}
+
+#gallery-container h1,
+#gallery-container .col-md-6,
+#gallery-container .com-12 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    height: 250px;
+    
+}
